@@ -1,0 +1,40 @@
+{
+  
+  "devDependencies": {
+  
+    
+  "playwright": "^1.44.1",
+  
+    
+  "type": "module"
+  
+  },
+  
+  "name": "playwright-test",
+  
+  "version": "1.0.0",
+  
+  "main": "index.js",
+  
+  "dependencies": {
+  
+    
+  "playwright-core": "^1.44.1"
+  
+  },
+  
+  "scripts": {
+  
+    
+  "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  
+  "keywords": [],
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "description": ""
+}
